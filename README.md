@@ -16,4 +16,4 @@ Are they supporting the ‘currently’ underrepresented communities? I say ‘c
 representation will soon change if we continue to talk about it and work on making a change.
 
 
-
+<img src="img/a.jpg" alt="screenshot of TV" />
