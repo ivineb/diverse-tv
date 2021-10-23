@@ -14,7 +14,7 @@ Then, I included a little extra button for another screen to display some of the
 Are they supporting the ‘currently’ underrepresented communities? I say ‘currently’ because I believe that this lack of
 representation will soon change if we continue to talk about it and work on making a change.
 
-Check it out <a href="https://ivineb.github.io/diverse-tv/">here!</a>
+Check it out <a href="https://ivineb.github.io/diverse-tv/" target="_blank">here!</a>
 
 
 <img src="img/a.jpg" alt="screenshot of TV" />
