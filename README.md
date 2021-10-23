@@ -5,8 +5,7 @@ The results showed that a lot of the stuff that I watch is made by white men (su
 But, it was at least nice to see that some of the shows were a bit diverse when it comes to the main characters & cast. Women
 are mostly represented, followed by BIPOCs, and lastly, Queer and Trans folks.
 --
-This project helped change my tv consumption habits; I have been questioning who the shows are made by, and how diverse is the cast. 
-I hope that this piece will help influence people to think twice about their watching consumption, and support inclusivity. 
+This project helped change my tv consumption habits and made me question who the shows are made by, and how diverse is the cast. I hope that this piece helps influence people to think twice about their watching consumption, and support inclusivity.
 
 --
 I coded the TV using P5.js to show how the entertainment industry is lacking inclusivity, I displayed that through two graphs.
